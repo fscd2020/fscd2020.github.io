@@ -1,0 +1,32 @@
+<!-- Portfolio Grid Section -->
+<section id="sc-candidates">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">
+          FSCD SC Election
+        </h2>
+        <h2>
+          Steering Committee Membership Election 2020
+        </h2>
+      </div>
+    </div>
+    <div>
+      <p>&nbsp;</p>
+    </div>
+    <div class="row">
+      {% for candidate in site.data.twenty_18.sc-candidates %}
+      <div class="col-md-3 col-sm-6 speakers-item text-center">
+        <div class="speakers-caption">
+          <h4>{{ candidate.name }}</h4>
+          <p class="text-muted">{{ candidate.affiliation }}</p>
+        </div>
+        <div>
+          {% capture file_url %}{% link files/{{ candidate.file }} %}{% endcapture %}
+          <a class="btn btn-primary" href="{{ file_url }}" role="button">Election statement</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+{% include 2018_data/head.html %}
+
+
+<body id="page-top" class="index">
+
+    {% include 2018_data/header-home.html %}
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text" style="padding-top: 125px;">
+                <div class="intro-heading">
+                    {% if site.data.conference.global.front-title %}
+                      {{ site.data.conference.global.front-title | markdownify }}
+                    {% else %}
+                      {{ site.title }}
+                    {% endif %}
+                    <h2>{{site.acronym}}</h2>
+                </div>
+                <div class="intro-lead-in">{{site.dates}}</div>
+                <div class="intro-lead-in">{{site.place}}</div>
+                {% if site.co-located %}
+                <div class="intro-heading">Co-located with {{ site.co-located}}</div>
+                {% endif %}
+                <center>
+                  <a href="/register" class="page-scroll btn btn-xl">
+                    Register</a>
+                  <a href="https://www.dagstuhl.de/dagpub/978-3-95977-155-9"
+                    class="page-scroll btn btn-xl">
+                    Proceedings</a>
+                </center>
+
+                <!-- <center><a href="{{ site.data.conference.global.fscd.submission-url }}" class="page-scroll btn btn-xl">
+                  Submit<br /><br />
+                  New deadline for abstract submission: <br />
+                  February 10, 2020
+                </a></center> -->
+                <div class="alert-warning col-md-10 col-md-offset-1" role="alert" align="center"
+                      style="margin-top:20px;">
+                  <h2>Virtualisation of FSCD and IJCAR 2020</h2>
+                  <p>
+                    The 2020 edition of FSCD and of its satellite workshops
+                    will be held online.
+                    Participation will be free, but a
+                    preregistration will be required to join the video
+                    meetings of the events.
+                    <!-- <br />
+                    <a href="{{ site.baseurl }}/2020/04/01/Registration/" class="alert-link">
+                      [Read more...]
+                    </a> -->
+                  </p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    {% include 2018_data/about.html %}
+    {% include 2018_data/speakers.html %}
+    {% include 2018_data/sponsors.html %}
+    {% include 2018_data/in-cooperation.html %}
+    {% include 2018_data/contact.html %}
+    {% include 2018_data/footer.html %}
+    {% include 2018_data/speakers_info.html %}
+    {% include 2018_data/js.html %}
+
+</body>
+
+</html>

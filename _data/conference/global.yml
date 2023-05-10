@@ -1,0 +1,19 @@
+front-title: |
+  5th International Conference on\\
+  Formal Structures for Computation and Deduction
+
+ijcar-fscd:
+  url: "http://fscd-ijcar-2020.org"
+
+fscd:
+  logo-header: /css/2016_style/img/logos/fscd-logo-white.png
+  logo: /css/2016_style/img/logos/fscd-logo.png
+  url-2020: "http://fscd2020.org"
+  url: "http://fscd-conference.org"
+  submission-url: "https://easychair.org/conferences/?conf=fscd2020"
+
+ijcar:
+  logo-header: /css/2016_style/img/logos/ijcar-logo-white.svg
+  logo: /css/2016_style/img/logos/ijcar-logo.svg
+  url-2020: "http://ijcar2020.org"
+  url: "http://ijcar.org"

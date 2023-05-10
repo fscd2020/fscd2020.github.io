@@ -1,0 +1,96 @@
+- title: FSCD 2020
+  link: /
+
+- title: Conference
+  list:
+  - title: About FSCD
+    link: /#about
+  -
+  -
+  - title: Committees
+  -
+  - title: Organising
+    url: /organising-committee
+  - title: Program
+    url: /program-committee
+  - title: Steering
+    url: /steering-committee
+  -
+  - title: SC Election
+    url: /sc-election
+  -
+  -
+  - title: CFP
+    link: /call-for-papers
+  - title: Dates
+    link: /call-for-papers#dates
+  -
+  -
+  - title: Speakers
+    link: /#speakers
+  - title: Program
+    url: http://easychair.org/smart-program/FSCD2020/
+    # url: http://fscd-ijcar-2020.org/program
+  -
+  - title: Papers
+    link: /accepted
+  - title: Proceedings
+    url: https://www.dagstuhl.de/dagpub/978-3-95977-155-9
+  -
+  -
+  - title: Register
+    url: /register
+
+- title: Colocated events
+  list:
+  - title: IJCAR-FSCD 2020
+  - title: Site
+    url: http://fscd-ijcar-2020.org
+  - title: Program
+    url: http://fscd-ijcar-2020.org/program
+  -
+  - title: IJCAR 2020
+  - title: Site
+    url: http://ijcar2020.org
+  - title: CFP
+    url: http://ijcar2020.org/wp-content/uploads/2019/11/IJCAR2020-CFP.txt
+  -
+  - title: Workshops
+  - title: Affiliated
+    url: http://fscd-ijcar-2020.org/workshops
+  - title: CFW
+    url: http://fscd-ijcar-2020.org/call-for-workshops
+  -
+  -
+  - title: WS Program
+    url: http://fscd-ijcar-2020.org/wsprogram
+  -
+  - title: Register
+    link: /register
+
+- title: Tech Program
+  list:
+  - title: FSCD
+    url: http://easychair.org/smart-program/FSCD2020/
+    # url: http://fscd-ijcar-2020.org/program
+  -
+  - title: FSCD-IJCAR
+    url: http://fscd-ijcar-2020.org/program
+  - title: Workshops
+    url: http://fscd-ijcar-2020.org/wsprogram
+  - title: week
+    url: http://fscd-ijcar-2020.org/workshops#schedule
+
+- title: More Info
+  list:
+  - title: Local
+  - title: Venue
+    link: http://fscd-ijcar-2020.org/venue
+  -
+  -
+  - title: News
+    link: /news
+  -
+  -
+  - title: Sponsors
+    link: /#sponsors

@@ -1,0 +1,29 @@
+
+<div class="container" style="margin-bottom:100px;">
+  <div class="row">
+    <div class="col-lg-12">
+      <p>
+        FSCD is in-cooperation with
+        {% assign  list =  site.data.conference.in-cooperation | where: "in_text", true %}
+        {% assign first_ass = true %}
+        {% for association in list %}
+          {% if first_ass %}
+            {% assign first_ass = false %}
+          {% else %}
+            and
+          {% endif %}
+            <a href="{{ association.link }}">
+              {{ association.name }}
+            </a>
+        {% endfor %}
+      </p>
+      {% for association in site.data.conference.in-cooperation %}
+      <div class="col-md-2">
+        <a href="{{ association.link }}">
+          <img src="{{site.baseurl}}/css/2016_style/img/sponsors/{{ association.logo }}" class="img-responsive img-centered" alt="{{ association.name }}">
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

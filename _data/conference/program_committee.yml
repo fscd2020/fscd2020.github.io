@@ -1,0 +1,144 @@
+chair:
+  firstname: Z.M.
+  lastname: Ariola
+  affiliation: University of Oregon
+
+members:
+  - firstname: M.
+    lastname: Alpuente
+    affiliation: University of Valencia
+  
+  - firstname:  S.
+    lastname:  Alves
+    affiliation: University of Porto
+  
+  - firstname:  A.
+    lastname:  Bauer
+    affiliation: University of Ljubljana
+  
+  - firstname:  M. P.
+    lastname:  Bonacina
+    affiliation: University of Verona
+  
+  - firstname:  P-L.
+    lastname:  Curien
+    affiliation: University Paris-Diderot
+  
+  - firstname:  P.
+    lastname:  Dybjer
+    affiliation: Chalmers University
+  
+  - firstname:  U.
+    lastname:  De’Liguoro
+    affiliation: University of Torino
+  
+  - firstname:  M.
+    lastname:  Fernandez
+    affiliation: King’s College London
+  
+  - firstname:  M.
+    lastname:  Gaboardi
+    affiliation: University of Buffalo
+  
+  - firstname:  D.
+    lastname:  Ghica
+    affiliation: University of Birmingham
+  
+  - firstname:  S.
+    lastname:  Ghilezan
+    affiliation: University of Novi Sad
+  
+  - firstname:  J.
+    lastname:  Giesl
+    affiliation: RWTH Aachen
+  
+  - firstname:  S.
+    lastname:  Guerrini
+    affiliation: University Paris 13
+  
+  - firstname:  R.
+    lastname:  Harper
+    affiliation: Carnegie Mellon University
+  
+  - firstname:  M.
+    lastname:  Hasegawa
+    affiliation: Kyoto University
+  
+  - firstname:  N.
+    lastname:  Hirokawa
+    affiliation: JAIST
+  
+  - firstname:  P.
+    lastname:  Johann
+    affiliation: Appalachian State University
+  
+  - firstname:  O.
+    lastname:  Kammar
+    affiliation: University of Oxford
+  
+  - firstname:  D.
+    lastname:  Kesner
+    affiliation: University Paris-Diderot
+  
+  - firstname:  C.
+    lastname:  Kop
+    affiliation: Radboud University
+  
+  - firstname:  O.
+    lastname:  Laurent
+    affiliation: ENS Lyon
+  
+  - firstname:  D.
+    lastname:  Licata
+    affiliation: Wesleyan University
+  
+  - firstname:  A.
+    lastname:  Middeldorp
+    affiliation: University of Innsbruck
+  
+  - firstname:  J.
+    lastname:  Mitchell
+    affiliation: Stanford University
+  
+  - firstname:  K.
+    lastname:  Nakata
+    affiliation: SAP Postdam
+  
+  - firstname:  M.
+    lastname:  Pagani
+    affiliation: University Paris-Diderot
+  
+  - firstname:  E.
+    lastname:  Pimentel
+    affiliation: U. Federal Rio Grande Do Norte
+  
+  - firstname:  F.
+    lastname:  van Raamsdonk
+    affiliation: Vrije University Amsterdam
+  
+  - firstname:  G.
+    lastname:  Rosu
+    affiliation: University of Illinois
+  
+  - firstname:  A.
+    lastname:  Sabry
+    affiliation: Indiana University
+  
+  - firstname:  A.
+    lastname:  Stump
+    affiliation: University of Iowa
+  
+  - firstname:  P.
+    lastname:  Urzyczyn
+    affiliation: University of Warsaw
+  
+  - firstname:  T.
+    lastname:  Uustalu
+    affiliation: Reykjavik University
+  
+  - firstname:  S.
+    lastname:  Zdancewic
+    affiliation: University of Pennsylvania
+  
+  
+  

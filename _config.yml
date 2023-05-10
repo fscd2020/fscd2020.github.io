@@ -1,0 +1,44 @@
+title: 5th International Conference on Formal Structures for Computation and Deduction
+acronym: FSCD 2020
+dates: June 29 - July 6, 2020
+place: Paris, France
+co-located: IJCAR 2020
+
+description: > # this means to ignore newlines until "baseurl:"
+  The 5th
+  [FSCD](http://fscd-conference.org)
+  (Int. Conf. on Formal Structures for Computation and Deduction)
+  will be held in Paris, France from June 29 to July 5, 2020
+  colocated with the 10th IJCAR.
+
+logo:
+
+baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://fscd2020.org" # the base hostname & protocol for your site
+url: "http://fscd2020.gihub.io" # the base hostname & protocol for your site
+
+# Contact email
+# contact: contact@fscd2020.org
+contact: stefano.guerrini@univ-paris13.fr
+
+google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+# Social networks usernames (many more available: twitter, facebook, instagram, linkedin, etc.)
+social:
+
+# Pages
+include:
+- .htaccess
+- _2018_pages
+
+exclude:
+- "README.*"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,63 @@
+- name: Chair
+  members:
+  - firstname: Delia
+    lastname: Kesner
+    affiliation: University Paris-Diderot
+
+- name: Former SC Chair
+  members:
+  - firstname: Luke
+    lastname: Ong
+    affiliation: University of Oxford
+
+- name: Steering Committee Workshop Chair
+  members:
+  - firstname: Jamie
+    lastname: Vicary
+    affiliation: University of Oxford
+
+- name: Publicity Chair
+  members:
+  - firstname: Sandra
+    lastname: Alves
+    affiliation: University of Porto
+
+- name: PC Chairs/Co-Chairs
+  members:
+  - firstname: Herman 
+    lastname: Geuvers
+    affiliation: Radboud University Nijmegen
+
+  - firstname: Hélène
+    lastname: Kirchner
+    affiliation: INRIA Paris
+
+  - firstname: Dale
+    lastname:  Miller
+    affiliation: INRIA Saclay
+
+- name: Elected Members
+  members:
+  - firstname: Mauricio
+    lastname: Ayala-Rincón
+    affiliation: Brasilia University
+
+  - firstname: Carsten
+    lastname: Fuhs
+    affiliation: Birkbeck, University of London
+
+  - firstname: Cynthia
+    lastname: Kop
+    affiliation: Radboud University Nijmegen
+
+  - firstname: Damiano
+    lastname: Mazza
+    affiliation: University Paris 13
+
+  - firstname: Jakob
+    lastname: Rehof
+    affiliation: Technical University Dortmund
+
+  - firstname: Sam
+    lastname: Staton
+    affiliation: University of Oxford

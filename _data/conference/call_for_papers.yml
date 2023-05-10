@@ -1,0 +1,122 @@
+dates:
+  - name: Abstract
+    olddate: February 6, 2020
+    date: February 10, 2020
+    extendedto: true
+
+  - name: Submission
+    olddate: February 9, 2020
+    date: February 13, 2020
+    extendedto: true
+
+  - name: Rebuttal
+    olddate: March 27-29, 2020
+    date: March 28-30, 2020
+    extendedto: true
+
+  - name: Notification
+    date: April 13, 2020
+
+  - name: Final version
+    date: April 27, 2020
+
+  - name: Conference
+    date: July 1-4, 2020
+
+sections:
+  - title:
+    content: >
+      FSCD (<http://fscdconference.org/>) covers all aspects of
+      formal structures for computation and deduction from theoretical
+      foundations to applications. Building on two communities, RTA
+      (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi
+      and Applications), FSCD embraces their core topics and broadens
+      their scope to closely related areas in logics, models of computation,
+      semantics and verification in new challenging areas.
+
+      The suggested, but not exclusive, list of topics for submission is:
+
+      1. **Calculi:** Rewriting systems (string, term, higher-order,
+      graph,conditional, modulo, infinitary, etc.); Lambda calculus;
+      Logics(first-order, higher-order, equational, modal, linear,
+      classical,constructive, etc.); Proof theory (natural deduction,
+      sequent calculus, proof nets, etc.); Type theory and logical
+      frameworks;Homotopy type theory; Quantum calculi.
+
+      2. **Methods in Computation and Deduction:** Type systems (poly-morphism,
+      dependent, recursive, intersection, session, etc.); Induction, coinduction;
+      Matching, unification, completion, orderings; Strategies (normalization,
+      completeness, etc.); Tree automata; Model building and model checking; Proof
+      search and theorem proving; Constraint solving and decision procedures.
+
+      3. **Semantics:** Operational semantics and abstract machines; Game
+      Semantics and applications; Domain theory and categorical models;
+      Quantitative models (timing, probabilities, etc.); Quantum computation
+      and emerging models in computation.
+
+      4. **Algorithmic Analysis and Transformations of Formal Systems:** Type
+      Inference and type checking; Abstract Interpretation; Complexity
+      analysis and implicit computational complexity;Checking termination,
+      confluence, derivational complexity and related properties; Symbolic
+      computation.
+
+      5. **Tools and Applications:** Programming and proof
+      environments; Verification tools; Proof assistants and interactive
+      theorem provers; Applications in industry; Applications of formal
+      systems in other sciences.
+
+      6. **Semantics and Verification in new challenging areas:** Certification;
+      Security; Blockchain protocols; Data Bases; Deep learning and machine
+      learning algorithms; Planning.
+
+  - title: Submission Guidelines
+    content: |
+      Submissions must be formatted using the
+      [LIPIcs style files](https://submission.dagstuhl.de/documentation/authors)
+      and submitted via [EasyChair](https://easychair.org/conferences/?conf=fscd2020).
+
+      Submissions can be made in two categories.
+
+      * **Regular Research Papers.**
+        They are limited to 15 pages, excluding references.
+        They must present original research which is unpublished
+        and not submitted elsewhere.  Proofs and other technical
+        details that do not fit within the page limit can be
+        submitted as an appendix (up to 5 pages). The appendix will be
+        consulted at the discretion of the reviewers. Therefore, submissions
+        must be self-contained within the respective page limit; the
+        additional material should not be necessary to assess
+        the merits of a submission.
+
+      * **System Descriptions.**
+        They are limited to 15 pages, excluding references. They must
+        present new software tools, or significantly new versions of such tools,
+        in which FSCD topics play an important role. An archive of the code with
+        instructions on how to install and run the tool must be submitted.
+        In addition, a webpage where the system can be experimented with
+        should be provided.
+
+      One author of an accepted paper is expected to present it at the conference.
+
+  - title: Best Paper Award by Junior Researchers
+    content: >
+      The program committee will select a paper in which at least one author is a
+      junior researcher, i.e. either a student or whose PhD award date is less than
+      three years from the first day of the meeting. Other authors should declare
+      to the PC Chair that at least 50% of contribution is made by the junior
+      researcher(s).
+
+  - title: Publication
+    content: >
+      The proceedings will be published as an electronic volume in the Leibniz
+      International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All
+      LIPIcs proceedings are open access.
+
+  - title: Special Issue
+    content: >
+      Authors of selected papers will be invited to submit an extended version to a
+      special issue of Logical Methods in Computer Science.
+
+file:
+  label: Please download the PDF file here.
+  url: files/CFP_FSCD2020.pdf

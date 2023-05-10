@@ -1,0 +1,25 @@
+---
+layout: 2018_default
+permalink: /steering-committee
+title: Steering Committee
+published: true
+---
+
+<div class="event black-frame">
+  <h1>{{ page.title }}</h1>
+
+  {% for subtitle in site.data.conference.steering_committee %}
+  <h2>{{ subtitle.name }}</h2>
+
+  <ul>
+    {% for member in subtitle.members %}
+    <li>
+      {{ member.firstname }}
+      {{ member.lastname }},
+      {{ member.affiliation }}
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% endfor %}
+</div>

@@ -1,0 +1,20 @@
+- name: ACM in Cooperation
+  id: ACM
+  logo: ACM-In-Cooperation.gif
+  link: https://www.acm.org
+  alt: ACM in Cooperation
+  in_text: false
+
+- name: ACM SIGLOG
+  id: SIGLOG
+  logo: SIGLOG.png
+  link: https://www.siglog.org
+  alt: ACM SIGLOG
+  in_text: true
+
+- name: ACM SIGPLAN
+  id: SIGPLAN
+  logo: SIGPLAN.png
+  link: https://www.sigplan.org
+  alt: ACM SIGPLAN
+  in_text: true
