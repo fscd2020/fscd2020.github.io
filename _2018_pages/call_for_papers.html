@@ -44,7 +44,7 @@ published: true
 
   {% assign file_url = site.data.conference.call_for_papers.file %}
   {% if file_url %}
-  {% capture file_link %}{% link {{file_url.url}} %}{% endcapture %}
+  {% capture file_link %}{{ file_url.url | relative_url }}{% endcapture %}
   <h3><a href="{{ file_link }}">{{ file_url.label }}</a></h3>
   {% endif %}
 

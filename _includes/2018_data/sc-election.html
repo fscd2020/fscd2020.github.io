@@ -22,7 +22,7 @@
           <p class="text-muted">{{ candidate.affiliation }}</p>
         </div>
         <div>
-          {% capture file_url %}{% link files/{{ candidate.file }} %}{% endcapture %}
+          {% capture file_url %} {{ "files/"candidate.file | relative_url }} {% endcapture %}
           <a class="btn btn-primary" href="{{ file_url }}" role="button">Election statement</a>
         </div>
       </div>
