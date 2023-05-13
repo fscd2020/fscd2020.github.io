@@ -30,7 +30,7 @@
     link: /#speakers
   - title: Program
     url: http://easychair.org/smart-program/FSCD2020/
-    # url: http://fscd-ijcar-2020.org/program
+    # url: http://fscd-ijcar-2020.github.io/program
   -
   - title: Papers
     link: /accepted
@@ -45,9 +45,9 @@
   list:
   - title: IJCAR-FSCD 2020
   - title: Site
-    url: http://fscd-ijcar-2020.org
+    url: http://fscd-ijcar-2020.github.io
   - title: Program
-    url: http://fscd-ijcar-2020.org/program
+    url: http://fscd-ijcar-2020.github.io/program
   -
   - title: IJCAR 2020
   - title: Site
@@ -57,13 +57,13 @@
   -
   - title: Workshops
   - title: Affiliated
-    url: http://fscd-ijcar-2020.org/workshops
+    url: http://fscd-ijcar-2020.github.io/workshops
   - title: CFW
-    url: http://fscd-ijcar-2020.org/call-for-workshops
+    url: http://fscd-ijcar-2020.github.io/call-for-workshops
   -
   -
   - title: WS Program
-    url: http://fscd-ijcar-2020.org/wsprogram
+    url: http://fscd-ijcar-2020.github.io/wsprogram
   -
   - title: Register
     link: /register
@@ -75,17 +75,17 @@
     # url: http://fscd-ijcar-2020.org/program
   -
   - title: FSCD-IJCAR
-    url: http://fscd-ijcar-2020.org/program
+    url: http://fscd-ijcar-2020.github.io/program
   - title: Workshops
-    url: http://fscd-ijcar-2020.org/wsprogram
+    url: http://fscd-ijcar-2020.github.io/wsprogram
   - title: week
-    url: http://fscd-ijcar-2020.org/workshops#schedule
+    url: http://fscd-ijcar-2020.github.io/workshops#schedule
 
 - title: More Info
   list:
   - title: Local
   - title: Venue
-    link: http://fscd-ijcar-2020.org/venue
+    link: http://fscd-ijcar-2020.github.io/venue
   -
   -
   - title: News
